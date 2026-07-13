@@ -1,2 +1,5 @@
-"# Notes from Main Branch" 
-"Working on main development" 
+# Project Notes 
+## Main Development 
+Working on main development 
+## Feature Development 
+Working on new feature 
