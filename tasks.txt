@@ -1,2 +1,6 @@
-"- Review code daily" 
-"- Write tests" 
+# Tasks 
+- Learn merge types 
+- Review code daily 
+- Write tests 
+- Practice conflicts 
+- Master Git workflow 
