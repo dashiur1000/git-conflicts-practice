@@ -5,3 +5,6 @@
 "" 
 "## Progress" 
 "Making good progress!" 
+"" 
+"## Installation" 
+"Run: npm install" 
