@@ -5,3 +5,7 @@
 "" 
 "## Progress" 
 "Making good progress!" 
+## Team
+- Developer 1 (You)
+- Developer 2 (Teammate)
+- Commit
